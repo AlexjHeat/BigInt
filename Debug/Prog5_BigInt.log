@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\Owner\source\repos\Prog5_BigInt\Main.cpp(136,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\source\repos\Prog5_BigInt\Main.cpp(147,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\source\repos\Prog5_BigInt\Main.cpp(163,20): warning C4018: '<': signed/unsigned mismatch
+  Prog5_BigInt.vcxproj -> C:\Users\Owner\source\repos\Prog5_BigInt\Debug\Prog5_BigInt.exe

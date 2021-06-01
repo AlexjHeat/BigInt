@@ -1,0 +1,2 @@
+C:\Users\Owner\source\repos\Prog5_BigInt\Debug\Prog5_BigInt.exe
+C:\Users\Owner\source\repos\Prog5_BigInt\Debug\Prog5_BigInt.pdb
